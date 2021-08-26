@@ -1,0 +1,25 @@
+make system so i can send in a list of operations to make masks and change stuff
+
+make system to apply changes based on where attribute should be placed
+
+
+hats
+crypto eyes
+background color
+? poop color 
+eye color
+face mask / color
+
+
+
+
+
+
+
+
+# Compiled
+*.jpg
+*.png
+*.JPG
+*.PNG
+/Masks
